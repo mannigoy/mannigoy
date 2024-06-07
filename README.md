@@ -14,8 +14,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=mannigoy&theme=dark&hide_border=false&include_all_commits=false&count_private=false) &nbsp;&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mannigoy&theme=dark&hide_border=false) <br><br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mannigoy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannigoy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
