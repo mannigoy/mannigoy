@@ -11,7 +11,7 @@
 #  📊 GitHub Stats:
 
   
-![](https://github-readme-stats.vercel.app/api?username=mannigoy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=mannigoy&theme=dark&hide_border=false&include_all_commits=false&count_private=false) &nbsp;&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mannigoy&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mannigoy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
