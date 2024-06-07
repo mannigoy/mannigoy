@@ -1,4 +1,4 @@
-gprm# 💫 About Me:
+# 💫 About Me:
 <br>- 👋 Hi, I’m @mannigoy, a below average computer science guy <br>- 👀 I’m interested in Mobile App development <br>- 🌱 I’m currently learning C++ and Java<br>- 📫 How to reach me: emmanroy.pielago03@gmail.com
 
 
