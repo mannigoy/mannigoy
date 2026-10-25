@@ -80,6 +80,33 @@ public class Manni {
   <img src="https://streak-stats.demolab.com?user=mannigoy&theme=tokyonight&hide_border=true" />
 </div>
 
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mannigoy&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
+
+### 🧾 Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mannigoy&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mannigoy&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mannigoy&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mannigoy&theme=tokyonight&utcOffset=8" height="160" />
+</div>
+
+### 🏆 Trophies *(participation trophies count, right?)*
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mannigoy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+### 🐍 Watch the Snake Eat My Commits
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mannigoy/mannigoy/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
+</div>
+
 ## 🐛 Fun Facts
 
 - My code has two states: *"why doesn't this work"* and *"why does this work"*
