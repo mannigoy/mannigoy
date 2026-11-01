@@ -1,8 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0d1117,50:1e1b4b,100:818cf8&text=Manni&fontColor=e0e7ff&fontSize=56&fontAlignY=38&desc=IT%20Student%20%40%20CIT-U%20%E2%80%A2%20Mobile%20%26%20Web%20Dev&descAlignY=60&descSize=16" width="100%" alt="header" />
-
 <img src="https://www.gitskins.com/api/section/hero?username=mannigoy&theme=midnight&style=aura" width="100%" alt="Manni's profile hero" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manni+%F0%9F%91%8B;Mobile+%26+Web+App+Developer;Professional+Bug+Creator+%F0%9F%90%9B;It+works+on+my+machine+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" alt="Typing SVG" />
@@ -122,7 +120,5 @@ public class Manni {
 <div align="center">
 
 ⭐ *Thanks for stopping by! If something here helped you, you're more lost than I am — but welcome.* ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:818cf8,50:1e1b4b,100:0d1117" width="100%" alt="footer" />
 
 </div>
