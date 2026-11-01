@@ -1,15 +1,13 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/hero?username=mannigoy&theme=midnight&style=aura" width="100%" alt="Manni's profile hero" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manni+%F0%9F%91%8B;Mobile+%26+Web+App+Developer;Professional+Bug+Creator+%F0%9F%90%9B;It+works+on+my+machine+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manni+%F0%9F%91%8B;Mobile+%26+Web+App+Developer;Professional+Bug+Creator+%F0%9F%90%9B;It+works+on+my+machine+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" alt="Typing SVG" />
 
 <p>
-  <a href="mailto:emmanroy.pielago03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://facebook.com/daemman551"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/mannigoy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=mannigoy&style=for-the-badge&color=818CF8&label=Profile+Views" />
+  <a href="mailto:emmanroy.pielago03@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://facebook.com/daemman551"><img src="https://img.shields.io/badge/Facebook-161B22?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/mannigoy"><img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mannigoy&style=for-the-badge&color=30363D&label=Profile+Views" />
 </p>
 
 </div>
@@ -82,22 +80,10 @@ public class Manni {
 
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/stats?username=mannigoy&theme=midnight&style=aura" width="100%" alt="Profile stats" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=mannigoy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mannigoy&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top languages" />
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=mannigoy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mannigoy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=mannigoy&theme=tokyonight&hide_border=true&background=0d1117&ring=818CF8&fire=818CF8&currStreakLabel=818CF8" alt="Streak stats" />
-
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/section/heatmap?username=mannigoy&theme=midnight&style=aura" width="100%" alt="Contribution heatmap" />
-
-<img src="https://www.gitskins.com/api/section/stack?username=mannigoy&theme=midnight&style=aura" width="100%" alt="Language stack" />
+<img src="https://streak-stats.demolab.com?user=mannigoy&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="Streak stats" />
 
 </div>
 
